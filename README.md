@@ -25,13 +25,13 @@ You need to output a formatted table to the output file. Output lines must not c
 
 Example of input data
 
-+-----------+-------+---+
-|Anatoliy       |Ivanov|179|
-+-----------+-------+---+
-|Sergey| Petrov|57     |
-+-----------+-------+---+
-|Aleksey| Sidorov-| |
-|       | Vasechkin||
++-----------+-------+---+                                                 
+|Anatoliy       |Ivanov|179|                                                    
++-----------+-------+---+                                            
+|Sergey| Petrov|57     |                                                   
++-----------+-------+---+                                                 
+|Aleksey| Sidorov-| |                                                           
+|       | Vasechkin||                                                         
 +-----------+-------+---+
 
 Example of output data
