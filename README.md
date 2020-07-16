@@ -24,23 +24,26 @@ Output
 You need to output a formatted table to the output file. Output lines must not contain leading and trailing spaces. The output must not contain empty lines. The source data is such that the width of the formatted table does not exceed 255 characters. The last row of the table must end with a newline character.
 
 Example of input data
-     +-----------+-------+---+
-     |Anatoliy       |Ivanov|179|
-     +-----------+-------+---+
-     |Sergey| Petrov|57     |
-     +-----------+-------+---+
-     |Aleksey| Sidorov-| |
-     |       | Vasechkin||
-     +-----------+-------+---+
+
++-----------+-------+---+
+|Anatoliy       |Ivanov|179|
++-----------+-------+---+
+|Sergey| Petrov|57     |
++-----------+-------+---+
+|Aleksey| Sidorov-| |
+|       | Vasechkin||
++-----------+-------+---+
+
 Example of output data
-     +----------+-----------+-----+
-     | Anatoliy | Ivanov    | 179 |
-     +----------+-----------+-----+
-     | Sergey   | Petrov    | 57  |
-     +----------+-----------+-----+
-     | Aleksey  | Sidorov-  |     |
-     |          | Vasechkin |     |
-     +----------+-----------+-----+
+
++----------+-----------+-----+
+| Anatoliy | Ivanov    | 179 |
++----------+-----------+-----+
+| Sergey   | Petrov    | 57  |
++----------+-----------+-----+
+| Aleksey  | Sidorov-  |     |
+|          | Vasechkin |     |
++----------+-----------+-----+
      
 # Системные требования (версия языка, требования к ресурсам, системные зависимости, нужные расширения)
 System requirements:
