@@ -23,7 +23,7 @@ The input data contains an edited table. The table consists of no more than 100 
 Output
 You need to output a formatted table to the output file. Output lines must not contain leading and trailing spaces. The output must not contain empty lines. The source data is such that the width of the formatted table does not exceed 255 characters. The last row of the table must end with a newline character.
 
-пп
+![Image alt](https://github.com/Ivan569/Spreadsheet-editor/blob/master/bandicam%202020-07-16%2017-58-55-899.jpg)
      
 # Системные требования (версия языка, требования к ресурсам, системные зависимости, нужные расширения)
 System requirements:
